@@ -5,6 +5,6 @@ client = 30;
 
 console.log(client)
 
-let prize;
-prize = 100;
-console.log(prize);
+let price;
+price = 100;
+console.log(price);

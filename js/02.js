@@ -5,5 +5,5 @@ const client = "Jonathan";
 
 console.log(client);
 
-let prize;
-console.log(prize);
+let price;
+console.log(price);
