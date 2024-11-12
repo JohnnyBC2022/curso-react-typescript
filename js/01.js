@@ -3,7 +3,7 @@
 let client = "Jonathan";
 client = 30;
 
-console.log(client)
+console.log(client);
 
 let price;
 price = 100;
