@@ -21,5 +21,4 @@ product.image = "imagen.jpg";
 // Eliminar una propiedad
 delete product.available;
 
-
 console.log(product);
