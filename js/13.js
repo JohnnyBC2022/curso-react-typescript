@@ -16,11 +16,11 @@ const arrayMap = tecnologies.map(function (tech) {
   return tech;
 });
 
-console.log(arrayForEach2)
-console.log(arrayMap)
+console.log(arrayForEach2);
+console.log(arrayMap);
 
 // for ...of . Ejecuta un bloque de código por cada elemento del array
 
-for(let tech of tecnologies) {
-    console.log(tech)
+for (let tech of tecnologies) {
+  console.log(tech);
 }
