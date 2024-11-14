@@ -20,8 +20,8 @@ const consultarAPI = async () => {
     console.log(data); Para ello se usa try..catch: */
   try {
     const response = await fetch(url);
-    if(!response.ok) {
-        throw new Error("Hubo un error...");
+    if (!response.ok) {
+      throw new Error("Hubo un error...");
     }
     const data = await response.json();
     console.log(data);
