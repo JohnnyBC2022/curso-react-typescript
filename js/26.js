@@ -8,7 +8,7 @@ fetch(url)
     if (response.ok) {
       return response.json();
     }
-    throw new Error('Hubo un error...')
+    throw new Error("Hubo un error...");
   })
   .then((data) => {
     console.log(data);
