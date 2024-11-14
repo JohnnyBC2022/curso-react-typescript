@@ -56,4 +56,4 @@ const consultarAPI2 = async () => {
   }
 };
 
-consultarAPI2()
+consultarAPI2();
