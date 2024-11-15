@@ -16,7 +16,7 @@ form.addEventListener("submit", (e) => {
         previousAlert.remove();
     }
   */
-    previousAlert?.remove();
+  previousAlert?.remove();
 
   const alerta = document.createElement("DIV");
   alerta.textContent = "Contenido de alerta";
